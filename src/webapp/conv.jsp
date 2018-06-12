@@ -1,7 +1,6 @@
 <%@ page import="ServiceStudent.CreateStudents" %>
 <%@ page import="DomenObject.Student" %>
 <%@ page import="java.util.ArrayList" %>
-<%@ page import="java.util.Iterator" %>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
