@@ -32,7 +32,7 @@ ArrayList<Student>  students = createPeople.getStudentsArrayList();
 %>
 
 </table>
-<form action="conv.jsp">
+<form action="task2.jsp">
 
     <input type="radio" name="chooseSex" value="m"> Male
     <input type="radio" name="chooseSex" value="f"> Female
